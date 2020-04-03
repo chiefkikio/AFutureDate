@@ -1,5 +1,6 @@
 # installation
 ```
+You must have ruby version > 2.4
 gem install jekyll -v 3.8
 gem install jekyll-paginate
 gem install jekyll-gist
