@@ -6,17 +6,20 @@ title: About
 A Future Date is an accessibility conference built by volunteers who are passionate about bringing together the a11y community in light of COVID-19
 
 ## Volunteers
-* Matt May
+* Michael Berger
+* Lanya Butler
+* Anna Cook
+* Victoria Clark
+* Sumner Davenport
+* Mark Hakkinen
+* Seth Kane
 * Steve King
+* Matt May
 * Hiral Mehta
 * Sophia Morgan
-* Seth Kane
-* Léonie Watson
-* Mark Hakkinen
-* Chris Werely
 * Crystal Preston-Watson
-* Sumner Davenport
-* Lanya Butler
+* Léonie Watson
+* Chris Werely
 
 ## Corporate Thank Yous
 * 3play Media
