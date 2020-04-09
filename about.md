@@ -16,6 +16,7 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Steve King
 * Matt May
 * Hiral Mehta
+* Derek Mei
 * Sophia Morgan
 * Crystal Preston-Watson
 * Léonie Watson
