@@ -1,13 +1,8 @@
 <header class="sidebar">
-  <a href="#main" class="skip-to-content">Skip To Main Content</a>  
+  <a href="#main" class="skip-to-content visually-hidden">Skip To Main Content</a>  
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <img src="{{ site.baseurl }}public/afd_main_logo.png" alt="A Future Event Logo">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -32,7 +27,5 @@
         <a class="sidebar-nav-item" href="https://github.com/chiefkikio/AFutureDate">GitHub project</a>
       {% endcomment %}
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </header>

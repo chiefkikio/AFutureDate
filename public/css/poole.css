@@ -229,9 +229,14 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 100%;
+  max-width:85px;
   margin: 0 0 1rem;
   border-radius: 5px;
+}
+@media (min-width: 48em) {
+  img { 
+    max-width: 100%;
+  }
 }
 
 /* Tables */
@@ -285,7 +290,7 @@ tbody tr:nth-child(odd) th {
  * Center the page content.
  */
 
-.container {
+.container, footer {
   max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
