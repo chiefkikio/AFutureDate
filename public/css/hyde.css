@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   color: rgba(255,255,255,.75);
   background-color: #202020;
 }
@@ -73,6 +73,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  outline: 0;
 }
 
 /* About section */
@@ -89,12 +90,24 @@ html {
 }
 .sidebar-nav-item {
   display: block;
+  margin-bottom: 1rem;
   line-height: 1.75;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
+a.sidebar-nav-item:focus {
+  outline: 1px dashed #fff;
+  outline-offset: 2px;
+}
+
+@media (min-width: 48em) {
+  a.sidebar-nav-item:focus {
+      width: fit-content;
+  }
+}
+
 .sidebar-nav-item.active {
   font-weight: bold;
 }
@@ -105,11 +118,15 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
+.sidebar-sticky{
+    padding: 0;
+}
+
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top: 4rem;
     left:   1rem;
   }
 }
@@ -120,14 +137,17 @@ a.sidebar-nav-item:focus {
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
+main {
+  outline: 0;
+}
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 2rem;
 }
 
 @media (min-width: 48em) {
-  .content {
+  .content, footer {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
@@ -231,6 +251,11 @@ a.sidebar-nav-item:focus {
   color: #36465D;
 }
 
+.theme-base-0d .content a:focus {
+  outline: 1px dashed #36465D;
+  outline-offset: 2px;
+}
+
 /* Magenta */
 .theme-base-0e .sidebar {
   background-color: #aa759f;
@@ -248,3 +273,43 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+
+/*
+ * Custom 
+ */
+.visually-hidden {
+  top: 0;
+  border: 0;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  position: absolute;
+  clip: rect(0 0 0 0);
+}
+
+.skip-to-content:focus {
+  top: 10px;
+  left: 1rem;
+  height: auto;
+  width: auto;
+  overflow: visible;
+  clip: initial;
+  outline: 1px dashed #fff;
+  outline-offset: 2px;
+}
+
+@media (max-width: 48em) {
+  .sidebar-about {
+    display: flex;
+    align-items: center; 
+    text-align: left;
+  }
+  .sidebar-about p {
+    margin-left: 1rem;
+  }
+}
+
