@@ -11,9 +11,9 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Anna Cook
 * Sumner Davenport
 * Mark Hakkinen
-* Seth Kane [![Seth Kane on Twitter](/public/twitter.svg)](https://twitter.com/onesixtieth) [![Seth Kane on LinkedIn](/public/linkedin.svg)](https://www.linkedin.com/in/sethmkane/)
+* Seth Kane [![Seth Kane on Twitter](/public/twitter.svg)](https://twitter.com/onesixtieth) [![Seth Kane on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sethmkane/)
 * Steve King
-* Matt May [![Matt May on Twitter](/public/twitter.svg)](https://twitter.com/mattmay) [![Matt May on LinkedIn](/public/linkedin.svg)](https://www.linkedin.com/in/maymatt/)
+* Matt May [![Matt May on Twitter](/public/twitter.svg)](https://twitter.com/mattmay) [![Matt May on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/maymatt/)
 * Hiral Mehta
 * Derek Mei
 * Sophia Morgan
