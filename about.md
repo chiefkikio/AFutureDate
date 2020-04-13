@@ -6,7 +6,7 @@ title: About
 A Future Date is an accessibility conference built by volunteers who are passionate about bringing together the a11y community in light of COVID-19
 
 ## Volunteers
-* Michael Berger
+* Michael Berger [![Michael Berger on Twitter](/public/twitter.svg)](https://twitter.com/bergatron)
 * Lanya Butler [![Lanya Butler on Twitter](/public/twitter.svg)](https://twitter.com/chiefkikio)
 * Anna Cook
 * Sumner Davenport [![Sumner Davenport on Twitter](/public/twitter.svg)](https://twitter.com/SumnerDavenport) [![Sumner Davenport on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sumnerdavenport/)
@@ -22,8 +22,8 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Chris Werely
 
 ## Corporate Thank Yous
-* 3play Media
-* Base Camp
+* [3play Media] (https://www.3playmedia.com/)
+* [Basecamp](https://basecamp.com/)
 
 
 
