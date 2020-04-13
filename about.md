@@ -9,7 +9,6 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Michael Berger
 * Lanya Butler
 * Anna Cook
-* Victoria Clark
 * Sumner Davenport
 * Mark Hakkinen
 * Seth Kane
