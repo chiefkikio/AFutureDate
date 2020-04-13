@@ -93,6 +93,29 @@ html {
   margin-bottom: 1rem;
   line-height: 1.75;
 }
+
+.sidebar-nav.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidebar-nav.social a {
+  width: 25px;
+  height: 25px;
+  margin-left: .25rem;
+  margin-right: .25rem;
+}
+@media (min-width: 48em) {
+  .sidebar-nav.social a {
+    margin: 0;
+    margin-right: .5rem;
+  }
+}
+.sidebar-nav.social a:focus {
+  width: 25px;
+  height: 25px;
+} 
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
@@ -105,6 +128,12 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   a.sidebar-nav-item:focus {
       width: fit-content;
+  }
+
+  .sidebar-nav.social {
+    display: flex;
+    align-items: left;
+    justify-content: left;
   }
 }
 
@@ -319,5 +348,18 @@ main {
   .sidebar-about p {
     margin-left: 1rem;
   }
+}
+
+.page ul li {
+  display: flex;
+  text-align: left;
+}
+.page ul li a {
+    margin-left: .5rem;
+}
+.page ul li img {
+  width: 20px;
+  height: 20px;
+  margin: 0;
 }
 
