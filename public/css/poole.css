@@ -89,10 +89,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 2rem;
+  color: #ee2e74
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  color: #435775
 }
 h3 {
   margin-top: 1.5rem;
@@ -132,7 +134,7 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #435775;
   border-bottom: 1px solid #fff;
 }
 
@@ -342,7 +344,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #435775;
+  color: #ee2e74;
 }
 .page-title,
 .post-title {
