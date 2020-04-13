@@ -10,8 +10,11 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 
 [Keynote] 11:00am - 12:10pm EST<br>
 **Digital Accessibility Legal Update**<br>
-Lainey Feingold<br>
-Tim Elder
+
+<ul class="social">
+<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on Twitter"></a></li>
+<li>Tim Elder</li>
+</ul>
 
 12:20pm - 1:20pm EST <br>
 **Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality**<br>

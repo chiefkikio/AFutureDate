@@ -354,12 +354,15 @@ main {
   display: flex;
   text-align: left;
 }
-.page ul li a {
+.page ul li a, a.social  {
     margin-left: .5rem;
 }
-.page ul li img {
+.page ul li img, a.social img {
   width: 20px;
   height: 20px;
   margin: 0;
+}
+.page .social {
+  padding: 0;
 }
 
