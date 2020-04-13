@@ -21,7 +21,7 @@ Nathan Cunningham<br>
 **Amplifying Your Accessibility With Better Authoring Tools** <br>
 Hidde de Vries
 
-## Thursday 4/34
+## Thursday 4/23
 11:00am - 11:50am EST<br>
 **No Team? No Problem! Implementing Accessibility with No Dedicated Resources**<br>
 Lanya Butler<br>
