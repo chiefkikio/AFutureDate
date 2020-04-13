@@ -148,6 +148,7 @@ main {
 
 .content a {
   text-decoration: underline;
+  color: #000;
 }
 .content a:hover {
   color: #662B64;
