@@ -146,6 +146,14 @@ main {
   padding-bottom: 2rem;
 }
 
+.content a {
+  text-decoration: underline;
+}
+.content a:hover {
+  color: #662B64;
+}
+
+
 @media (min-width: 48em) {
   .content, footer {
     max-width: 38rem;
@@ -242,16 +250,15 @@ main {
   color: #75b5aa;
 }
 
+
 /* Blue */
 .theme-base-0d .sidebar {
   background-color: #36465D;
 }
-.theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
-  color: #36465D;
-}
+
 
 .theme-base-0d .content a:focus {
+  color: #662B64;
   outline: 1px dashed #36465D;
   outline-offset: 2px;
 }
