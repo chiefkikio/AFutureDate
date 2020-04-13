@@ -10,7 +10,8 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 
 [Keynote] 11:00am - 12:10pm EST<br>
 **Digital Accessibility Legal Update**<br>
-Lainey Feingold
+Lainey Feingold<br>
+Tim Elder
 
 12:20pm - 1:20pm EST <br>
 **Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality**<br>
