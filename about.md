@@ -9,12 +9,12 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Michael Berger
 * Lanya Butler [![Lanya Butler on Twitter](/public/twitter.svg)](https://twitter.com/chiefkikio)
 * Anna Cook
-* Sumner Davenport
+* Sumner Davenport [![Sumner Davenport on Twitter](/public/twitter.svg)](https://twitter.com/SumnerDavenport) [![Sumner Davenport on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sumnerdavenport/)
 * Mark Hakkinen
 * Seth Kane [![Seth Kane on Twitter](/public/twitter.svg)](https://twitter.com/onesixtieth) [![Seth Kane on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sethmkane/)
 * Steve King
 * Matt May [![Matt May on Twitter](/public/twitter.svg)](https://twitter.com/mattmay) [![Matt May on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/maymatt/)
-* Hiral Mehta
+* Hiral Mehta  [![Hiral Mehta on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/hiralmehtatoronto/)
 * Derek Mei
 * Sophia Morgan
 * Crystal Preston-Watson
