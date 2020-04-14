@@ -18,6 +18,11 @@ Tim Elder
 Sara Shahvisi<br>
 Sable Lomax
 
+<i>Track: Accessibility Techniques</i>
+3:20pm - 4:00pm EST <br>
+**Beyond Alt-Text: Advanced Adobe InDesign Techniques for more Accessible Infographics**<br>
+Dax Castro
+
 <hr>
 ## Wednesday 4/22
 <i>Track: Accessibility Techniques</i>
@@ -28,9 +33,17 @@ Corinne Weible<br>
 Jutta Treviranus<br>
 Nathan Cunningham<br>
 
-2:40 - 3:20pm  EST <br>
+12:00pm - 12:40pm EST <br>
+**Respecting User Preferences on the Web**<br>
+Eric Eggert<br>
+
+2:40pm - 3:20pm  EST <br>
 **Amplifying Your Accessibility With Better Authoring Tools** <br>
 Hidde de Vries
+
+4:40pm - 5:00pm EST<br>
+**What I Wish I Learned About Assistive Technology Before Starting College** <br>
+Veronica Lewis
 
 <hr>
 ## Thursday 4/23
