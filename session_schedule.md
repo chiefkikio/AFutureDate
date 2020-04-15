@@ -74,4 +74,13 @@ Lainey Feingold <br>
 Ted Drake <br>
 
 1:00pm - 2:30pm EST <br>
-**Digital Accessibility Legal Summit**
+**The Digital Accessibility Legal Summit – An update on current issues from speakers at the forthcoming (we hope!) Summit**<br>
+Jack McElaney<br>
+Debra Ruh<br>
+Karen Peltz Strauss<br>
+Pina D’Intino<br>
+Deepa Goraya<br>
+Marcie Lipsitt<br>
+Chris Law<br>
+
+**Note:** Q&A for this session will take place separately 1 week later. Details will be shared at the start of the session.
