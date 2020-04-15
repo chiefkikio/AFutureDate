@@ -21,6 +21,24 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 Sara Shahvisi<br>
 Sable Lomax
 
+<i>Track: Accessibility Techniques</i>
+
+2:30pm - 3:10pm EST <br>
+**Retrofitting Captions Compliance**<br>
+Joe Devon <br>
+Michael Mistak <br>
+Nick Schilling <br>
+James Kennelly <br>
+
+3:20pm - 4:00pm EST <br>
+**Beyond Alt-Text: Advanced Adobe InDesign Techniques for more Accessible Infographics**<br>
+Dax Castro <br>
+
+4:10pm - 4:30pm EST <br>
+**XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality**<br>
+Dylan Fox <br>
+Bill Curtis-Davidson <br>
+
 <hr>
 ## Wednesday 4/22
 <i>Track: Accessibility Techniques</i>
@@ -31,9 +49,17 @@ Corinne Weible<br>
 Jutta Treviranus<br>
 Nathan Cunningham<br>
 
-2:40 - 3:20pm  EST <br>
+12:00pm - 12:40pm EST <br>
+**Respecting User Preferences on the Web**<br>
+Eric Eggert<br>
+
+2:40pm - 3:20pm  EST <br>
 **Amplifying Your Accessibility With Better Authoring Tools** <br>
 Hidde de Vries
+
+4:40pm - 5:00pm EST<br>
+**What I Wish I Learned About Assistive Technology Before Starting College** <br>
+Veronica Lewis
 
 <hr>
 ## Thursday 4/23
@@ -45,8 +71,10 @@ Lanya Butler<br>
 Lily Bond
 
 12:00pm - 12:50pm EST <br>
-**Why Add People with Disabilities to Your Workforce?**<br>
-Lucy Greco
+[Keynote] **Why Add People with Disabilities to Your Workforce?**<br>
+Lucy Greco <br>
+Lainey Feingold <br>
+Ted Drake <br>
 
 1:00pm - 2:30pm EST <br>
 **Digital Accessibility Legal Summit**
