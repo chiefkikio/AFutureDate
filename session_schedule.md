@@ -53,9 +53,22 @@ Nathan Cunningham<br>
 **Respecting User Preferences on the Web**<br>
 Eric Eggert<br>
 
+1:50pm - 2:30 EST <br>
+**Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key**<br>
+Glen Walker<br>
+
 2:40pm - 3:20pm  EST <br>
 **Amplifying Your Accessibility With Better Authoring Tools** <br>
 Hidde de Vries
+
+3:30pm - 4:10pm EST <br>
+**Red is Not a Signal Color to Me – From User Research to Inclusive Design** <br>
+Wendy Fox <br>
+Lauriann Hebb <br>
+
+4:20pm - 4:40pm EST<br>
+**QA Your Way to an Accessibility Friendly Company**<br>
+Michael Berger<br>
 
 4:40pm - 5:00pm EST<br>
 **What I Wish I Learned About Assistive Technology Before Starting College** <br>
@@ -77,4 +90,13 @@ Lainey Feingold <br>
 Ted Drake <br>
 
 1:00pm - 2:30pm EST <br>
-**Digital Accessibility Legal Summit**
+**The Digital Accessibility Legal Summit – An update on current issues from speakers at the forthcoming (we hope!) Summit**<br>
+Jack McElaney<br>
+Debra Ruh<br>
+Karen Peltz Strauss<br>
+Pina D’Intino<br>
+Deepa Goraya<br>
+Marcie Lipsitt<br>
+Chris Law<br>
+
+**Note:** Q&A for this session will take place separately 1 week later. Details will be shared at the start of the session.
