@@ -350,16 +350,39 @@ main {
   }
 }
 
+.page h2, h3, h4, h5 {
+  margin: 0;
+}
+.page h2 {
+  margin-bottom: .25rem;
+}
+.page h3 {
+  margin-bottom: 1rem;
+  font-weight: 300;
+  font-size: 18px;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+ul {
+  margin-bottom: 2rem;
+}
 .page ul li {
   display: flex;
   text-align: left;
+  align-items: center;
 }
-.page ul li a {
+.page ul li a, a.social  {
     margin-left: .5rem;
 }
-.page ul li img {
+.page ul li img, a.social img {
   width: 20px;
   height: 20px;
   margin: 0;
+}
+.page ul.social {
+  padding: 0;
+  padding-top: .25rem;
 }
 
