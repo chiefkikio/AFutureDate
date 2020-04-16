@@ -17,7 +17,7 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Hiral Mehta  [![Hiral Mehta on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/hiralmehtatoronto/)
 * Derek Mei
 * Sophia Morgan [![Sophia Morgan on Twitter](/public/twitter.svg)](https://twitter.com/sophiaminmorgan) [![Sophia Morgan on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sophiaminmorgan/)
-* Crystal Preston-Watson
+* Crystal Preston-Watson  [![Crystal Preston-Watson on Twitter](/public/twitter.svg)](https://twitter.com/ScopicEngineer) [![Crystal Preston-Watson on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/crystalprestonwatson/)
 * Léonie Watson
 * Chris Werely
 

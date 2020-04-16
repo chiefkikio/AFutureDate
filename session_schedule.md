@@ -6,97 +6,140 @@ title: Session Schedule
 Please check back regularly! We will be announcing sessions rapidly in the next few days and are continuing to adjust the session times.
 
 ## Tuesday 4/21
-<i>Track: Building Support for Accessibility</i>
+###Track: Building Support for Accessibility
 
-[Keynote] 11:00am - 12:10pm EST<br>
-**Digital Accessibility Legal Update**<br>
 
+####Digital Accessibility Legal Update
+#####[Keynote] 11:00am - 12:10pm EST
 <ul class="social">
-<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on Twitter"></a></li>
+<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
 <li>Tim Elder</li>
 </ul>
 
-12:20pm - 1:20pm EST <br>
-**Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality**<br>
-Sara Shahvisi<br>
-Sable Lomax
 
-<i>Track: Accessibility Techniques</i>
+####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
+#####12:20pm - 1:20pm EST
+<ul class="social">
+	<li>Sara Shahvisi</li>
+	<li>Sable Lomax</li>
+</ul>
 
-2:30pm - 3:10pm EST <br>
-**Retrofitting Captions Compliance**<br>
-Joe Devon <br>
-Michael Mistak <br>
-Nick Schilling <br>
-James Kennelly <br>
 
-3:20pm - 4:00pm EST <br>
-**Beyond Alt-Text: Advanced Adobe InDesign Techniques for more Accessible Infographics**<br>
-Dax Castro <br>
+###Track: Accessibility Techniques
 
-4:10pm - 4:30pm EST <br>
-**XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality**<br>
-Dylan Fox <br>
-Bill Curtis-Davidson <br>
+####Retrofitting Captions Compliance
+#####2:30pm - 3:10pm EST
+<ul class="social">
+<li>Joe Devon <a href="https://twitter.com/joedevon" class="social"><img src="/public/twitter.svg" alt="Joe Devon on Twitter"></a> <a href="https://www.linkedin.com/in/joedevon/" class="social"><img src="/public/linked-in.svg" alt="Joe Devon on LinkedIn"></a></li>
+<li>Michael Mistak <a href="https://twitter.com/MichaelMistak" class="social"><img src="/public/twitter.svg" alt="Michael Mistak on Twitter"></a> <a href="https://www.linkedin.com/in/michaelwaltermistak/" class="social"><img src="/public/linked-in.svg" alt="Michael Mistak on LinkedIn"></a></li>
+<li>Nick Schilling</li>
+<li>James Kennelly</li>
+</ul>
+
+
+####Beyond Alt-Text: Advanced Adobe InDesign Techniques for more Accessible Infographics
+#####3:20pm - 4:00pm EST
+<ul class="social">
+	<li>Dax Castro <a href="https://twitter.com/daxjcastro" class="social"><img src="/public/twitter.svg" alt="Dax Castro on Twitter"></a> <a href="https://www.linkedin.com/in/dax-castro-076b4612/" class="social"><img src="/public/linked-in.svg" alt="Dax Castro on LinkedIn"></a></li>
+</ul>
+
+####XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
+#####4:10pm - 4:30pm EST
+<ul class="social">
+	<li>Dylan Fox</li>
+	<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
+</ul>
 
 <hr>
+
 ## Wednesday 4/22
-<i>Track: Accessibility Techniques</i>
+###Track: Accessibility Techniques
 
-[Keynote] 11:00am - 11:50am EST<br>
-**Making Artificial Intelligence Inclusive for Hiring and HR**<br>
-Corinne Weible<br>
-Jutta Treviranus<br>
-Nathan Cunningham<br>
 
-12:00pm - 12:40pm EST <br>
-**Respecting User Preferences on the Web**<br>
-Eric Eggert<br>
+####Making Artificial Intelligence Inclusive for Hiring and HR
+#####[Keynote] 11:00am - 11:50am EST
+<ul class="social">
+	<li>Corinne Weible  <a href="https://www.linkedin.com/in/corinne-weible/" class="social"><img src="/public/linked-in.svg" alt="Corinne Weible on Twitter"></a></li>
+	<li>Jutta Treviranus <a href="https://twitter.com/juttatrevira" class="social"><img src="/public/twitter.svg" alt="Jutta Treviranus on Twitter"></a> <a href="https://www.linkedin.com/in/juttatreviranus/" class="social"><img src="/public/linked-in.svg" alt="Jutta Treviranus on LinkedIn"></a></li>
+	<li>Nathan Cunningham  <a href="https://www.linkedin.com/in/ndcunningham/" class="social"><img src="/public/linked-in.svg" alt="Nathan Cunningham on LinkedIn"></a></li>
+</ul>
 
-1:50pm - 2:30 EST <br>
-**Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key**<br>
-Glen Walker<br>
 
-2:40pm - 3:20pm  EST <br>
-**Amplifying Your Accessibility With Better Authoring Tools** <br>
-Hidde de Vries
+####Respecting User Preferences on the Web
+#####12:00pm - 12:40pm EST
+<ul class="social">
+	<li>Eric Eggert <a href="https://twitter.com/yatil" class="social"><img src="/public/twitter.svg" alt="Eric Eggert on Twitter"></a> <a href="https://www.linkedin.com/in/yatil/" class="social"><img src="/public/linked-in.svg" alt="Eric Eggert on LinkedIn"></a></li>
+</ul>
 
-3:30pm - 4:10pm EST <br>
-**Red is Not a Signal Color to Me – From User Research to Inclusive Design** <br>
-Wendy Fox <br>
-Lauriann Hebb <br>
 
-4:20pm - 4:40pm EST<br>
-**QA Your Way to an Accessibility Friendly Company**<br>
-Michael Berger<br>
+####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
+#####1:50pm - 2:30 EST
+<ul class="social">
+	<li>Glen Walker <a href="https://www.linkedin.com/in/glen-walker/" class="social"><img src="/public/linked-in.svg" alt="Glen Walker on LinkedIn"></a></li>
+</ul>
 
-4:40pm - 5:00pm EST<br>
-**What I Wish I Learned About Assistive Technology Before Starting College** <br>
-Veronica Lewis
+
+####Amplifying Your Accessibility With Better Authoring Tools
+#####2:40pm - 3:20pm  EST
+<ul class="social">
+	<li>Hidde de Vries <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
+</ul>
+
+
+####Red is Not a Signal Color to Me – From User Research to Inclusive Design
+#####3:30pm - 4:10pm EST
+<ul class="social">
+	<li>Wendy Fox</li>
+	<li>Lauriann Hebb</li>
+</ul>
+
+
+####QA Your Way to an Accessibility Friendly Company
+#####4:20pm - 4:40pm EST
+<ul class="social">
+	<li>Michael Berger <a href="https://twitter.com/bergatron" class="social"><img src="/public/twitter.svg" alt="Michael Berger on Twitter"></a></li>
+</ul>
+
+
+####What I Wish I Learned About Assistive Technology Before Starting College
+#####4:40pm - 5:00pm EST
+<ul class="social">
+	<li>Veronica Lewis</li>
+</ul>
 
 <hr>
+
 ## Thursday 4/23
-<i>Track: Accessibility Programs</i>
+###Track: Accessibility Programs
 
-11:00am - 11:50am EST<br>
-**No Team? No Problem! Implementing Accessibility with No Dedicated Resources**<br>
-Lanya Butler<br>
-Lily Bond
 
-12:00pm - 12:50pm EST <br>
-[Keynote] **Why Add People with Disabilities to Your Workforce?**<br>
-Lucy Greco <br>
-Lainey Feingold <br>
-Ted Drake <br>
+####No Team? No Problem! Implementing Accessibility with No Dedicated Resources
+#####11:00am - 11:50am EST
+<ul class="social">
+	<li>Lanya Butler</li>
+	<li>Lily Bond  <a href="https://twitter.com/lilybbond" class="social"><img src="/public/twitter.svg" alt="Lily Bond on Twitter"></a> <a href="https://www.linkedin.com/in/lilybbond/" class="social"><img src="/public/linked-in.svg" alt="Lily Bond on LinkedIn"></a></li>
+</ul>
 
-1:00pm - 2:30pm EST <br>
-**The Digital Accessibility Legal Summit – An update on current issues from speakers at the forthcoming (we hope!) Summit**<br>
-Jack McElaney<br>
-Debra Ruh<br>
-Karen Peltz Strauss<br>
-Pina D’Intino<br>
-Deepa Goraya<br>
-Marcie Lipsitt<br>
-Chris Law<br>
+
+####Why Add People with Disabilities to Your Workforce?
+#####[Keynote] 12:00pm - 12:50pm EST
+<ul class="social">
+	<li>Lucy Greco  <a href="https://twitter.com/accessaces" class="social"><img src="/public/twitter.svg" alt="Lucy Greco on Twitter"></a> <a href="https://www.linkedin.com/in/lucy-greco-968b491/" class="social"><img src="/public/linked-in.svg" alt="Lucy Greco on LinkedIn"></a></li>
+	<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
+	<li>Ted Drake  <a href="https://twitter.com/ted_drake" class="social"><img src="/public/twitter.svg" alt="Ted Drake on Twitter"></a> <a href="https://www.linkedin.com/in/draket/detail/contact-info/" class="social"><img src="/public/linked-in.svg" alt="Ted Drake on LinkedIn"></a></li>
+</ul>
+
+
+####The Digital Accessibility Legal Summit – An update on current issues from speakers at the forthcoming (we hope!) Summit
+#####1:00pm - 2:30pm EST
+<ul class="social">
+	<li>Jack McElaney <a href="https://www.linkedin.com/in/jackmcelaneya11yinthenews/" class="social"><img src="/public/linked-in.svg" alt="Jack McElaney on LinkedIn"></a></li>
+	<li>Debra Ruh <a href="https://twitter.com/debraruh" class="social"><img src="/public/twitter.svg" alt="Debra Ruh on Twitter"></a> <a href="https://www.linkedin.com/in/debraruh/" class="social"><img src="/public/linked-in.svg" alt="Debra Ruh on LinkedIn"></a></li>
+	<li>Karen Peltz Strauss <a href="https://www.linkedin.com/in/karenpeltzstrauss/" class="social"><img src="/public/linked-in.svg" alt="Karen Peltz Strauss on LinkedIn"></a></li>
+	<li>Pina D’Intino <a href="https://twitter.com/pdintino" class="social"><img src="/public/twitter.svg" alt="Pina D’Intino on Twitter"></a> <a href="https://www.linkedin.com/in/pinadintino/" class="social"><img src="/public/linked-in.svg" alt="Pina D’Intino on LinkedIn"></a></li>
+	<li>Deepa Goraya <a href="https://www.linkedin.com/in/deepagoraya/" class="social"><img src="/public/linked-in.svg" alt="Deepa Goraya on LinkedIn"></a></li>
+	<li>Marcie Lipsitt</li>
+	<li>Chris Law <a href="https://www.linkedin.com/in/chris-m-law/" class="social"><img src="/public/linked-in.svg" alt="Chris Law on LinkedIn"></a></li>
+</ul>
 
 **Note:** Q&A for this session will take place separately 1 week later. Details will be shared at the start of the session.
