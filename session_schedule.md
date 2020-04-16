@@ -130,7 +130,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 </ul>
 
 
-####The Digital Accessibility Legal Summit – An update on current issues from speakers at the forthcoming (we hope!) Summit
+####The Digital Accessibility Legal Summit - Live!
 #####1:00pm - 2:30pm EST
 <ul class="social">
 	<li>Jack McElaney <a href="https://www.linkedin.com/in/jackmcelaneya11yinthenews/" class="social"><img src="/public/linked-in.svg" alt="Jack McElaney on LinkedIn"></a></li>
@@ -142,4 +142,3 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 	<li>Chris Law <a href="https://www.linkedin.com/in/chris-m-law/" class="social"><img src="/public/linked-in.svg" alt="Chris Law on LinkedIn"></a></li>
 </ul>
 
-**Note:** Q&A for this session will take place separately 1 week later. Details will be shared at the start of the session.
