@@ -82,7 +82,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 ####Amplifying Your Accessibility With Better Authoring Tools
 #####2:40pm - 3:20pm  EST
 <ul class="social">
-	<li>Hidde de Vries <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
+	<li>Hidde de Vries <a href="https://twitter.com/hdv" class="social"><img src="/public/twitter.svg" alt="Hidde de Vries on Twitter"></a> <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
 </ul>
 
 
