@@ -28,7 +28,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 ####Using The Black Art Of Marketing To Sell Accessibility
 #####1:30pm - 2:10pm EST
 <ul class="social">
-	<li>Stewart Hay</li>
+	<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 </ul>
 
 
@@ -160,7 +160,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 ####How to Engage and Employ Users from the Disability Community in Accessibility Testing
 #####4:20am - 5:00pm EST
 <ul class="social">
-	<li>Jason Taylor</li>
-	<li>Joseph DiNero</li>
-	<li>Tanner Gers</li>
+	<li>Jason Taylor <a href="https://www.linkedin.com/in/jason-taylor-37279315b/" class="social"><img src="/public/linked-in.svg" alt="Jason Taylor on LinkedIn"></a></li>
+	<li>Joseph DiNero <a href="https://www.linkedin.com/in/joe-dinero-b3a31032/" class="social"><img src="/public/linked-in.svg" alt="Joseph DiNero on LinkedIn"></a></li>
+	<li>Tanner Gers <a href="https://twitter.com/TannerGers" class="social"><img src="/public/twitter.svg" alt="Tanner Gers on Twitter"></a> <a href="https://www.linkedin.com/in/tannergers/" class="social"><img src="/public/linked-in.svg" alt="Tanner Gers on LinkedIn"></a></li>
 </ul>
