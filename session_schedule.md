@@ -25,6 +25,13 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 </ul>
 
 
+####Using The Black Art Of Marketing To Sell Accessibility
+#####1:30pm - 2:10pm EST
+<ul class="social">
+	<li>Stewart Hay</li>
+</ul>
+
+
 ###Track: Accessibility Techniques
 
 ####Retrofitting Captions Compliance
@@ -72,6 +79,12 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 </ul>
 
 
+####Translating Maps and Geographic Data to Non-Visual Formats
+#####12:50pm - 1:40pm EST
+<ul class="social">
+	<li>Elizabeth J Pryatt </li>
+</ul>
+
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
 #####1:50pm - 2:30 EST
 <ul class="social">
@@ -116,7 +129,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 ####No Team? No Problem! Implementing Accessibility with No Dedicated Resources
 #####11:00am - 11:50am EST
 <ul class="social">
-	<li>Lanya Butler</li>
+	<li>Lanya Butler <a href="https://twitter.com/chiefkikio" class="social"><img src="/public/twitter.svg" alt="Lanya Butler on Twitter"></a> <a href="https://www.linkedin.com/in/lanya-butler-19b76259/" class="social"><img src="/public/linked-in.svg" alt="Lanya Butler on LinkedIn"></a></li>
 	<li>Lily Bond  <a href="https://twitter.com/lilybbond" class="social"><img src="/public/twitter.svg" alt="Lily Bond on Twitter"></a> <a href="https://www.linkedin.com/in/lilybbond/" class="social"><img src="/public/linked-in.svg" alt="Lily Bond on LinkedIn"></a></li>
 </ul>
 
@@ -142,3 +155,12 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 	<li>Chris Law <a href="https://www.linkedin.com/in/chris-m-law/" class="social"><img src="/public/linked-in.svg" alt="Chris Law on LinkedIn"></a></li>
 </ul>
 
+
+
+####How to Engage and Employ Users from the Disability Community in Accessibility Testing
+#####4:20am - 5:00pm EST
+<ul class="social">
+	<li>Jason Taylor</li>
+	<li>Joseph DiNero</li>
+	<li>Tanner Gers</li>
+</ul>
