@@ -82,7 +82,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 ####Translating Maps and Geographic Data to Non-Visual Formats
 #####12:50pm - 1:40pm EST
 <ul class="social">
-	<li>Elizabeth J Pryatt </li>
+	<li>Elizabeth Pyatt  <a href="https://www.linkedin.com/in/elizabeth-pyatt-124058156/" class="social"><img src="/public/linked-in.svg" alt="Elizabeth Pyatt on LinkedIn"></a></li>
 </ul>
 
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
