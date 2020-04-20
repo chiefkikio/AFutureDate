@@ -29,5 +29,10 @@
       <script src="{{ site.baseurl }}assets/redirect.js"></script>
     {% endif %}
 
+
+    {% if jekyll.environment == "development" %}
+      <script src="{{ site.baseurl }}assets/test.js"></script>
+    {% endif %}
+
   </body>
 </html>
