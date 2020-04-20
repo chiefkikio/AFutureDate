@@ -17,18 +17,17 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 </ul>
 
 
+####Using The Black Art Of Marketing To Sell Accessibility
+#####12:20pm - 1:10pm EST
+<ul class="social">
+	<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
+</ul>
+
 ####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
-#####12:20pm - 1:20pm EST
+#####1:10pm - 1:40pm EST
 <ul class="social">
 	<li>Sara Shahvisi</li>
 	<li>Sable Lomax</li>
-</ul>
-
-
-####Using The Black Art Of Marketing To Sell Accessibility
-#####1:30pm - 2:10pm EST
-<ul class="social">
-	<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 </ul>
 
 
@@ -55,6 +54,14 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 <ul class="social">
 	<li>Dylan Fox</li>
 	<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
+</ul>
+
+####Audio Graphs for Users with Visual Limitations
+#####4:40pm - 5:00pm EST
+<ul class="social">
+  <li>Sukriti Chadha</li>
+  <li>Yatin Kaushal</li>
+  <li>Kisiah Timmons</li>
 </ul>
 
 <hr>
