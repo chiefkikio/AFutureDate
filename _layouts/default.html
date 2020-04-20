@@ -25,5 +25,9 @@
       gtag('config', 'UA-43138139-3');
     </script>
 
+    {% if jekyll.environment == "production" %}
+      <script src="{{ site.baseurl }}assets/redirect.js"></script>
+    {% endif %}
+
   </body>
 </html>
