@@ -9,4 +9,4 @@ title: Code of Conduct
 
 <p>Sessions are pre-recorded. The chat is the only interactive component of the conference.</p>
 
-<p>Please address any urgent concerns to afuturedate.conference@gmail.com, which we will monitor in real time.</p>
+<p>Please address any urgent concerns to <a href="mailto:afuturedate.conference@gmail.com">afuturedate.conference@gmail.com</a>, which we will monitor in real time.</p>
