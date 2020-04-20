@@ -158,7 +158,7 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 
 
 ####How to Engage and Employ Users from the Disability Community in Accessibility Testing
-#####4:20am - 5:00pm EST
+#####4:20pm - 5:00pm EST
 <ul class="social">
 	<li>Jason Taylor <a href="https://www.linkedin.com/in/jason-taylor-37279315b/" class="social"><img src="/public/linked-in.svg" alt="Jason Taylor on LinkedIn"></a></li>
 	<li>Joseph DiNero <a href="https://www.linkedin.com/in/joe-dinero-b3a31032/" class="social"><img src="/public/linked-in.svg" alt="Joseph DiNero on LinkedIn"></a></li>
