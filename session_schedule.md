@@ -38,8 +38,8 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 <ul class="social">
 <li>Joe Devon <a href="https://twitter.com/joedevon" class="social"><img src="/public/twitter.svg" alt="Joe Devon on Twitter"></a> <a href="https://www.linkedin.com/in/joedevon/" class="social"><img src="/public/linked-in.svg" alt="Joe Devon on LinkedIn"></a></li>
 <li>Michael Mistak <a href="https://twitter.com/MichaelMistak" class="social"><img src="/public/twitter.svg" alt="Michael Mistak on Twitter"></a> <a href="https://www.linkedin.com/in/michaelwaltermistak/" class="social"><img src="/public/linked-in.svg" alt="Michael Mistak on LinkedIn"></a></li>
-<li>Nick Schilling</li>
-<li>James Kennelly</li>
+<li>Nick Schilling <a href="https://www.linkedin.com/in/nicholas-schilling-710b174b/" class="social"><img src="/public/linked-in.svg" alt="Nick Schilling on LinkedIn"></a></li>
+<li>James Kennelly <a href="https://www.linkedin.com/in/jameswilliamkennelly/" class="social"><img src="/public/linked-in.svg" alt="James Kennelly on LinkedIn"></a></li>
 </ul>
 
 
