@@ -118,6 +118,14 @@ Many of the speakers will be answering questions in the live chat during their s
 	</ul>
 </div>
 
+####Encore! XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
+#####1:20pm - 1:50pm ET
+<p>A repeat of this Day 1 session.</p>
+<ul class="social">
+	<li>Dylan Fox</li>
+	<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
+</ul>
+
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
 #####1:50pm - 2:30 ET
 <div class="session-info">
@@ -187,8 +195,13 @@ Many of the speakers will be answering questions in the live chat during their s
 </div>
 
 
-####The Digital Accessibility Legal Summit - Live!
+####The Digital Accessibility Legal Summit
+#####An update on current issues from speakers at the forthcoming Online Summit
 #####1:00pm - 2:30pm ET
+<p>
+This <em>live</em> session will be at another address. Info will be here, and on the
+day 3 stream.
+</p>
 <div class="session-info">
 	<ul class="social">
 		<li>Jack McElaney <a href="https://www.linkedin.com/in/jackmcelaneya11yinthenews/" class="social"><img src="/public/linked-in.svg" alt="Jack McElaney on LinkedIn"></a></li>
