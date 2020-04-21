@@ -385,9 +385,13 @@ ul {
   padding-top: .25rem;
 }
 
+.shirts .shirt {
+    margin-bottom: 1rem;
+}
 .shirts .shirt img {
   width: 100%;
   max-width: 100%;
+  margin: 0;
 }
 
 .theme-base-0d .content .shirts a:focus {
