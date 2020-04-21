@@ -2,8 +2,8 @@
 layout: page
 title: Session Schedule
 ---
-
-Please check back regularly! We will be announcing sessions rapidly in the next few days and are continuing to adjust the session times.
+<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=HKVFvDxQJMg">youtube channel</a> </b><br>
+Many speakers will be answering questions in the live chat during their sessions. 
 
 ## Tuesday 4/21
 ###Track: Building Support for Accessibility
