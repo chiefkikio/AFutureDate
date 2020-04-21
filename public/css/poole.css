@@ -115,6 +115,13 @@ strong {
   color: #303030;
 }
 
+.calltoyoutube{
+  color: #E2125F
+}
+
+.session-info{
+  margin-bottom: 2rem;
+}
 
 /* Lists */
 ul, ol, dl {
