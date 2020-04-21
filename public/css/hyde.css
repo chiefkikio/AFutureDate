@@ -384,3 +384,29 @@ ul {
   padding: 0;
   padding-top: .25rem;
 }
+
+.shirts .shirt {
+    margin-bottom: 1rem;
+}
+.shirts .shirt img {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+.theme-base-0d .content .shirts a:focus {
+  color: #662B64;
+  outline: 1px dashed #36465D;
+  outline-offset: 2px;
+  display: block;
+}
+
+@media (min-width: 48em) {
+  .shirts {
+    display: flex;
+  }
+  .shirts .shirt {
+    flex: 100%;
+    padding: .25rem;
+  }
+}
