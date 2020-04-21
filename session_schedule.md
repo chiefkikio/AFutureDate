@@ -12,30 +12,32 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Digital Accessibility Legal Update
 #####[Keynote] 11:00am - 12:10pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/legal_update.pdf" aria-label="PDF Transcript for Digital Accessibility Legal Update">PDF Transcript</a>
 	<ul class="social">
 	<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
 	<li>Tim Elder</li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/legal_update.pdf">PDF Transcript</a>
+	
 </div>
 
 ####Using The Black Art Of Marketing To Sell Accessibility
 #####12:20pm - 1:10pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/black_art_of_marketing.pdf" aria-label="PDF Transcript for Using The Black Art Of Marketing To Sell Accessibility">PDF Transcript</a>
 	<ul class="social">
 		<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/black_art_of_marketing.pdf">PDF Transcript</a>
+	
 </div>
 
 ####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
 #####1:10pm - 1:40pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/thinking_outside_boxes.pdf"  aria-label="PDF Transcript for Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality">PDF Transcript</a>
 	<ul class="social">
 		<li>Sara Shahvisi</li>
 		<li>Sable Lomax</li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/thinking_outside_boxes.pdf">PDF Transcript</a>
 </div>
 
 ###Track: Accessibility Techniques
@@ -43,13 +45,13 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Retrofitting Captions Compliance
 #####2:30pm - 3:10pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/retrofitting_caption.pdf"  aria-label="PDF Transcript for Retrofitting Captions Compliance">PDF Transcript</a>
 	<ul class="social">
 	<li>Joe Devon <a href="https://twitter.com/joedevon" class="social"><img src="/public/twitter.svg" alt="Joe Devon on Twitter"></a> <a href="https://www.linkedin.com/in/joedevon/" class="social"><img src="/public/linked-in.svg" alt="Joe Devon on LinkedIn"></a></li>
 	<li>Michael Mistak <a href="https://twitter.com/MichaelMistak" class="social"><img src="/public/twitter.svg" alt="Michael Mistak on Twitter"></a> <a href="https://www.linkedin.com/in/michaelwaltermistak/" class="social"><img src="/public/linked-in.svg" alt="Michael Mistak on LinkedIn"></a></li>
 	<li>Nick Schilling <a href="https://www.linkedin.com/in/nicholas-schilling-710b174b/" class="social"><img src="/public/linked-in.svg" alt="Nick Schilling on LinkedIn"></a></li>
 	<li>James Kennelly <a href="https://www.linkedin.com/in/jameswilliamkennelly/" class="social"><img src="/public/linked-in.svg" alt="James Kennelly on LinkedIn"></a></li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/retrofitting_caption.pdf">PDF Transcript</a>
 </div>
 
 ####Beyond Alt-Text: Advanced Adobe InDesign Techniques for more Accessible Infographics
@@ -63,22 +65,24 @@ Many of the speakers will be answering questions in the live chat during their s
 ####XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
 #####4:10pm - 4:30pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/xr_access.pdf"  aria-label="PDF Transcript for XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality">PDF Transcript</a>
 	<ul class="social">
 		<li>Dylan Fox</li>
 		<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/xr_access.pdf">PDF Transcript</a>
+
 </div>
 
 ####Audio Graphs for Users with Visual Limitations
 #####4:30pm - 4:50pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_one/audio_graphs.pdf"  aria-label="PDF Transcript for Audio Graphs for Users with Visual Limitations">PDF Transcript</a>
 	<ul class="social">
 	  <li>Sukriti Chadha</li>
 	  <li>Yatin Kaushal</li>
 	  <li>Kisiah Timmons</li>
 	</ul>
-	<a href="{{ site.baseurl }}transcripts/day_one/audio_graphs.pdf">PDF Transcript</a>
+
 </div>
 
 <hr>

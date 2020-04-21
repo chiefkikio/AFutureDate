@@ -19,7 +19,8 @@ A Future Date is an accessibility conference built by volunteers who are passion
 * Sophia Morgan [![Sophia Morgan on Twitter](/public/twitter.svg)](https://twitter.com/sophiaminmorgan) [![Sophia Morgan on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sophiaminmorgan/)
 * Crystal Preston-Watson [![Crystal Preston-Watson on Twitter](/public/twitter.svg)](https://twitter.com/ScopicEngineer)
 * Léonie Watson [![Léonie Watson on Twitter](/public/twitter.svg)](https://twitter.com/LeonieWatson)
-* Chris Werely
+* Chris Werely [![Chris Werely on Twitter](/public/twitter.svg)](https://twitter.com/ChrisWerely) [![Chris Werely on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/cwerely/)
+
 
 ## Corporate Thank Yous
 * [3play Media] (https://www.3playmedia.com/)
