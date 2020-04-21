@@ -87,20 +87,27 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 
 
 ####Translating Maps and Geographic Data to Non-Visual Formats
-#####12:50pm - 1:40pm ET
+#####12:50pm - 1:20pm ET
 <ul class="social">
 	<li>Elizabeth Pyatt  <a href="https://www.linkedin.com/in/elizabeth-pyatt-124058156/" class="social"><img src="/public/linked-in.svg" alt="Elizabeth Pyatt on LinkedIn"></a></li>
 </ul>
 
+####Encore! XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
+#####1:20pm - 1:50pm ET
+<p>A repeat of this Day 1 session.</p>
+<ul class="social">
+	<li>Dylan Fox</li>
+	<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
+</ul>
+
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
-#####1:50pm - 2:30 ET
+#####1:50pm - 2:30pm ET
 <ul class="social">
 	<li>Glen Walker <a href="https://www.linkedin.com/in/glen-walker/" class="social"><img src="/public/linked-in.svg" alt="Glen Walker on LinkedIn"></a></li>
 </ul>
 
-
 ####Amplifying Your Accessibility With Better Authoring Tools
-#####2:40pm - 3:20pm  ET
+#####2:40pm - 3:20pm ET
 <ul class="social">
 	<li>Hidde de Vries <a href="https://twitter.com/hdv" class="social"><img src="/public/twitter.svg" alt="Hidde de Vries on Twitter"></a> <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
 </ul>
@@ -150,8 +157,13 @@ Please check back regularly! We will be announcing sessions rapidly in the next 
 </ul>
 
 
-####The Digital Accessibility Legal Summit - Live!
+####The Digital Accessibility Legal Summit
+#####An update on current issues from speakers at the forthcoming Online Summit
 #####1:00pm - 2:30pm ET
+<p>
+This <em>live</em> session will be at another address. Info will be here, and on the
+day 3 stream.
+</p>
 <ul class="social">
 	<li>Jack McElaney <a href="https://www.linkedin.com/in/jackmcelaneya11yinthenews/" class="social"><img src="/public/linked-in.svg" alt="Jack McElaney on LinkedIn"></a></li>
 	<li>Debra Ruh <a href="https://twitter.com/debraruh" class="social"><img src="/public/twitter.svg" alt="Debra Ruh on Twitter"></a> <a href="https://www.linkedin.com/in/debraruh/" class="social"><img src="/public/linked-in.svg" alt="Debra Ruh on LinkedIn"></a></li>
