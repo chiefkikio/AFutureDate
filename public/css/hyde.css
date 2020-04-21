@@ -90,7 +90,6 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  margin-bottom: 1rem;
   line-height: 1.75;
 }
 
@@ -114,7 +113,7 @@ html {
 .sidebar-nav.social a:focus {
   width: 25px;
   height: 25px;
-} 
+}
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -314,7 +313,7 @@ main {
 
 
 /*
- * Custom 
+ * Custom
  */
 .visually-hidden {
   top: 0;
@@ -342,7 +341,7 @@ main {
 @media (max-width: 48em) {
   .sidebar-about {
     display: flex;
-    align-items: center; 
+    align-items: center;
     text-align: left;
   }
   .sidebar-about p {
@@ -366,7 +365,7 @@ main {
   border-bottom: 1px solid #ccc;
 }
 ul {
-  margin-bottom: 2rem;
+  margin-bottom: 0.25em;
 }
 .page ul li {
   display: flex;
@@ -385,4 +384,3 @@ ul {
   padding: 0;
   padding-top: .25rem;
 }
-

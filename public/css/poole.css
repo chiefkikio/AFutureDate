@@ -119,6 +119,10 @@ strong {
   color: #E2125F
 }
 
+.session-info{
+  margin-bottom: 2rem;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
