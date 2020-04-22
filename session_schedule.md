@@ -2,7 +2,7 @@
 layout: page
 title: Session Schedule
 ---
-<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=HKVFvDxQJMg">youtube channel</a> </b><br>
+<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=PHMSJP6WVy0">youtube channel</a> </b><br>
 Many of the speakers will be answering questions in the live chat during their sessions.
 
 ## Tuesday 4/21
@@ -94,6 +94,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Making Artificial Intelligence Inclusive for Hiring and HR
 #####[Keynote] 11:00am - 11:50am ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/ai_hiring.pdf" aria-label="PDF Transcript for Making Artificial Intelligence Inclusive for Hiring and HR">PDF Transcript</a>
 	<ul class="social">
 		<li>Corinne Weible  <a href="https://www.linkedin.com/in/corinne-weible/" class="social"><img src="/public/linked-in.svg" alt="Corinne Weible on Twitter"></a></li>
 		<li>Jutta Treviranus <a href="https://twitter.com/juttatrevira" class="social"><img src="/public/twitter.svg" alt="Jutta Treviranus on Twitter"></a> <a href="https://www.linkedin.com/in/juttatreviranus/" class="social"><img src="/public/linked-in.svg" alt="Jutta Treviranus on LinkedIn"></a></li>
@@ -105,6 +106,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Respecting User Preferences on the Web
 #####12:00pm - 12:40pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/user_preferences.pdf" aria-label="PDF Transcript for Respecting User Preferences on the Web">PDF Transcript</a>
 	<ul class="social">
 		<li>Eric Eggert <a href="https://twitter.com/yatil" class="social"><img src="/public/twitter.svg" alt="Eric Eggert on Twitter"></a> <a href="https://www.linkedin.com/in/yatil/" class="social"><img src="/public/linked-in.svg" alt="Eric Eggert on LinkedIn"></a></li>
 	</ul>
@@ -113,6 +115,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Translating Maps and Geographic Data to Non-Visual Formats
 #####12:50pm - 1:40pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/csun_maps.pdf" aria-label="PDF Transcript for Translating Maps and Geographic Data to Non-Visual Formats">PDF Transcript</a>
 	<ul class="social">
 		<li>Elizabeth Pyatt  <a href="https://www.linkedin.com/in/elizabeth-pyatt-124058156/" class="social"><img src="/public/linked-in.svg" alt="Elizabeth Pyatt on LinkedIn"></a></li>
 	</ul>
@@ -129,6 +132,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
 #####1:50pm - 2:30 ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/tab.pdf" aria-label="PDF Transcript for Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key">PDF Transcript</a>
 	<ul class="social">
 		<li>Glen Walker <a href="https://www.linkedin.com/in/glen-walker/" class="social"><img src="/public/linked-in.svg" alt="Glen Walker on LinkedIn"></a></li>
 	</ul>
@@ -137,6 +141,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Amplifying Your Accessibility With Better Authoring Tools
 #####2:40pm - 3:20pm  ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/authoring_tools.pdf" aria-label="PDF Transcript for Amplifying Your Accessibility With Better Authoring Tools">PDF Transcript</a>
 	<ul class="social">
 		<li>Hidde de Vries <a href="https://twitter.com/hdv" class="social"><img src="/public/twitter.svg" alt="Hidde de Vries on Twitter"></a> <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
 	</ul>
@@ -146,6 +151,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Red is Not a Signal Color to Me – From User Research to Inclusive Design
 #####3:30pm - 4:10pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/red.pdf" aria-label="PDF Transcript for Red is Not a Signal Color to Me – From User Research to Inclusive Design">PDF Transcript</a>
 	<ul class="social">
 		<li>Wendy Fox</li>
 		<li>Lauriann Hebb</li>
@@ -155,6 +161,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####QA Your Way to an Accessibility Friendly Company
 #####4:20pm - 4:40pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/qa_your_way.pdf" aria-label="PDF Transcript for QA Your Way to an Accessibility Friendly Company">PDF Transcript</a>
 	<ul class="social">
 		<li>Michael Berger <a href="https://twitter.com/bergatron" class="social"><img src="/public/twitter.svg" alt="Michael Berger on Twitter"></a></li>
 	</ul>
@@ -163,6 +170,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####What I Wish I Learned About Assistive Technology Before Starting College
 #####4:40pm - 5:00pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_two/college.pdf" aria-label="PDF Transcript for What I Wish I Learned About Assistive Technology Before Starting College">PDF Transcript</a>
 	<ul class="social">
 		<li>Veronica Lewis <a href="https://twitter.com/veron4ica" class="social"><img src="/public/twitter.svg" alt="Veronia Lewis on Twitter"></a></li>
 	</ul>
