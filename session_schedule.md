@@ -113,7 +113,7 @@ Many of the speakers will be answering questions in the live chat during their s
 </div>
 
 ####Translating Maps and Geographic Data to Non-Visual Formats
-#####12:50pm - 1:40pm ET
+#####12:50pm - 1:20pm ET
 <div class="session-info">
 	<a href="{{ site.baseurl }}transcripts/day_two/csun_maps.pdf" aria-label="PDF Transcript for Translating Maps and Geographic Data to Non-Visual Formats">PDF Transcript</a>
 	<ul class="social">
@@ -123,11 +123,13 @@ Many of the speakers will be answering questions in the live chat during their s
 
 ####Encore! XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
 #####1:20pm - 1:50pm ET
-<p>A repeat of this Day 1 session.</p>
-<ul class="social">
-	<li>Dylan Fox</li>
-	<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
-</ul>
+<div class="session-info">
+	A repeat of this Day 1 session.
+	<ul class="social">
+		<li>Dylan Fox</li>
+		<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
+	</ul>
+</div>
 
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
 #####1:50pm - 2:30 ET
