@@ -2,7 +2,7 @@
 layout: page
 title: Session Schedule
 ---
-<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=HKVFvDxQJMg">youtube channel</a> </b><br>
+<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=PHMSJP6WVy0">youtube channel</a> </b><br>
 Many of the speakers will be answering questions in the live chat during their sessions.
 
 ## Tuesday 4/21
@@ -17,7 +17,7 @@ Many of the speakers will be answering questions in the live chat during their s
 	<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
 	<li>Tim Elder</li>
 	</ul>
-	
+
 </div>
 
 ####Using The Black Art Of Marketing To Sell Accessibility
@@ -27,7 +27,7 @@ Many of the speakers will be answering questions in the live chat during their s
 	<ul class="social">
 		<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 	</ul>
-	
+
 </div>
 
 ####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
