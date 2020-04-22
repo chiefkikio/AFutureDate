@@ -7,7 +7,7 @@ A Future Date is an accessibility conference built by volunteers who are passion
 
 ## Volunteers
 * Michael Berger [![Michael Berger on Twitter](/public/twitter.svg)](https://twitter.com/bergatron)
-* Lanya Butler [![Lanya Butler on Twitter](/public/twitter.svg)](https://twitter.com/chiefkikio)
+* Lanya Butler [![Lanya Butler on Twitter](/public/twitter.svg)](https://twitter.com/chiefkikio)[![Lanya Butler on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/lanya-butler-19b76259/)
 * Anna Cook [![Anna Cook on Twitter](/public/twitter.svg)](https://twitter.com/annaecook)
 * Sumner Davenport [![Sumner Davenport on Twitter](/public/twitter.svg)](https://twitter.com/SumnerDavenport) [![Sumner Davenport on LinkedIn](/public/linked-in.svg)](https://www.linkedin.com/in/sumnerdavenport/)
 * Mark Hakkinen [![Mark Hakkinen on Twitter](/public/twitter.svg)](https://twitter.com/mhakkinen)
