@@ -164,7 +164,7 @@ Many of the speakers will be answering questions in the live chat during their s
 #####4:40pm - 5:00pm ET
 <div class="session-info">
 	<ul class="social">
-		<li>Veronica Lewis <a href="https://twitter.com/veron4ica" class="social"><img src="/public/twitter.svg" alt="Veronia Lewis on Twitter"></li>
+		<li>Veronica Lewis <a href="https://twitter.com/veron4ica" class="social"><img src="/public/twitter.svg" alt="Veronia Lewis on Twitter"></a></li>
 	</ul>
 </div>
 
