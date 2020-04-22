@@ -196,7 +196,7 @@ Many of the speakers will be answering questions in the live chat during their s
 
 
 ####Why Add People with Disabilities to Your Workforce?
-#####[Keynote] 12:00pm - 12:50pm ET
+#####[Keynote] 11:50am - 12:40pm ET
 <div class="session-info">
 	<ul class="social">
 		<li>Lucy Greco  <a href="https://twitter.com/accessaces" class="social"><img src="/public/twitter.svg" alt="Lucy Greco on Twitter"></a> <a href="https://www.linkedin.com/in/lucy-greco-968b491/" class="social"><img src="/public/linked-in.svg" alt="Lucy Greco on LinkedIn"></a></li>
