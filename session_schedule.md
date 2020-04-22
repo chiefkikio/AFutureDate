@@ -17,7 +17,7 @@ Many of the speakers will be answering questions in the live chat during their s
 	<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
 	<li>Tim Elder</li>
 	</ul>
-	
+
 </div>
 
 ####Using The Black Art Of Marketing To Sell Accessibility
@@ -27,7 +27,7 @@ Many of the speakers will be answering questions in the live chat during their s
 	<ul class="social">
 		<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 	</ul>
-	
+
 </div>
 
 ####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
@@ -195,6 +195,13 @@ Many of the speakers will be answering questions in the live chat during their s
 	</ul>
 </div>
 
+####Encore! What I Wish I Learned About Assistive Technology Before Starting College
+#####12:40pm - 12:55pm ET
+<div class="session-info">
+	<ul class="social">
+		<li>Veronica Lewis <a href="https://twitter.com/veron4ica" class="social"><img src="/public/twitter.svg" alt="Veronia Lewis on Twitter"></a></li>
+	</ul>
+</div>
 
 ####The Digital Accessibility Legal Summit
 #####An update on current issues from speakers at the forthcoming Online Summit
@@ -224,7 +231,7 @@ day 3 stream.
 </div>
 
 ####Building an Accessible Culture in Higher Ed
-#####3:30 PM - 4:10 PM ET
+#####3:20 PM - 3:50 PM ET
 <div class="session-info">
 	<ul class="social">
 		<li>Sarah Ferguson</li>
@@ -233,7 +240,7 @@ day 3 stream.
 </div>
 
 ####How to Engage and Employ Users from the Disability Community in Accessibility Testing
-#####4:20pm - 5:00pm ET
+#####4:00pm - 4:45pm ET
 <div class="session-info">
 	<ul class="social">
 		<li>Jason Taylor <a href="https://www.linkedin.com/in/jason-taylor-37279315b/" class="social"><img src="/public/linked-in.svg" alt="Jason Taylor on LinkedIn"></a></li>
