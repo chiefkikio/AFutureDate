@@ -12,7 +12,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Digital Accessibility Legal Update
 #####[Keynote] 11:00am - 12:10pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_one/legal_update.pdf" aria-label="PDF Transcript for Digital Accessibility Legal Update">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_one/legal_update.pdf" aria-label="PDF Transcript for Digital Accessibility Legal Update">PDF Transcript</a> | <a href="https://www.slideshare.net/lflegal/a-future-date-conference-digital-accessibility-legal-update-42120" aria-label="Digital Accessibility Legal Update Slides">Slides</a>
 	<ul class="social">
 	<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
 	<li>Tim Elder</li>
@@ -23,7 +23,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Using The Black Art Of Marketing To Sell Accessibility
 #####12:20pm - 1:10pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_one/black_art_of_marketing.pdf" aria-label="PDF Transcript for Using The Black Art Of Marketing To Sell Accessibility">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_one/black_art_of_marketing.pdf" aria-label="PDF Transcript for Using The Black Art Of Marketing To Sell Accessibility">PDF Transcript</a> | <a href="https://www.slideshare.net/Intopia/using-the-black-art-of-marketing-to-sell-accessibility-a-future-date" aria-label="Using The Black Art Of Marketing To Sell Accessibility Slides">Slides</a>
 	<ul class="social">
 		<li>Stewart Hay <a href="https://twitter.com/OhMyDeity" class="social"><img src="/public/twitter.svg" alt="Stewart Hay on Twitter"></a> <a href="https://www.linkedin.com/in/stewarthay/" class="social"><img src="/public/linked-in.svg" alt="Stewart Hay on LinkedIn"></a></li>
 	</ul>
@@ -65,7 +65,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality
 #####4:10pm - 4:30pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_one/xr_access.pdf"  aria-label="PDF Transcript for XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_one/xr_access.pdf"  aria-label="PDF Transcript for XR Access: Improving Accessibility for Virtual, Augmented and Mixed Reality">PDF Transcript</a> | <a href="https://drive.google.com/open?id=1nPFe608sY2NhkRjEzBRdRKnaJ_uKpRkC" aria-label="XR Access Slides">Slides</a>
 	<ul class="social">
 		<li>Dylan Fox</li>
 		<li>Bill Curtis-Davidson <a href="https://twitter.com/BCurtisDavidson" class="social"><img src="/public/twitter.svg" alt="Bill Curtis-Davidson on Twitter"></a> <a href="https://www.linkedin.com/in/billcurtisdavidson/" class="social"><img src="/public/linked-in.svg" alt="Bill Curtis-Davidson on LinkedIn"></a></li>
@@ -164,9 +164,10 @@ Many of the speakers will be answering questions in the live chat during their s
 #####4:40pm - 5:00pm ET
 <div class="session-info">
 	<ul class="social">
-		<li>Veronica Lewis</li>
+		<li>Veronica Lewis <a href="https://twitter.com/veron4ica" class="social"><img src="/public/twitter.svg" alt="Veronia Lewis on Twitter"></li>
 	</ul>
 </div>
+
 
 <hr>
 
