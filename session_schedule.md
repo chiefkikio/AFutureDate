@@ -94,7 +94,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Making Artificial Intelligence Inclusive for Hiring and HR
 #####[Keynote] 11:00am - 11:50am ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_two/ai_hiring.pdf" aria-label="PDF Transcript for Making Artificial Intelligence Inclusive for Hiring and HR">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_two/ai_hiring.pdf" aria-label="PDF Transcript for Making Artificial Intelligence Inclusive for Hiring and HR">PDF Transcript</a> | <a href="https://docs.google.com/presentation/d/1PK_Gnvxr1_4ryAu0yLdFmE4N2Ae99QwYYgIWQOa05Pc/edit#slide=id.g73a6e26ff0_0_20" aria-label="Making Artificial Intelligence Inclusive for Hiring and HR Slides">Slides</a>
 	<ul class="social">
 		<li>Corinne Weible  <a href="https://www.linkedin.com/in/corinne-weible/" class="social"><img src="/public/linked-in.svg" alt="Corinne Weible on Twitter"></a></li>
 		<li>Jutta Treviranus <a href="https://twitter.com/juttatrevira" class="social"><img src="/public/twitter.svg" alt="Jutta Treviranus on Twitter"></a> <a href="https://www.linkedin.com/in/juttatreviranus/" class="social"><img src="/public/linked-in.svg" alt="Jutta Treviranus on LinkedIn"></a></li>
@@ -115,7 +115,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Translating Maps and Geographic Data to Non-Visual Formats
 #####12:50pm - 1:20pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_two/csun_maps.pdf" aria-label="PDF Transcript for Translating Maps and Geographic Data to Non-Visual Formats">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_two/csun_maps.pdf" aria-label="PDF Transcript for Translating Maps and Geographic Data to Non-Visual Formats">PDF Transcript</a> | <a href="https://sites.psu.edu/ejp10tech/" aria-label="Translating Maps and Geographic Data to Non-Visual Formats Slides">Slides</a>
 	<ul class="social">
 		<li>Elizabeth Pyatt  <a href="https://www.linkedin.com/in/elizabeth-pyatt-124058156/" class="social"><img src="/public/linked-in.svg" alt="Elizabeth Pyatt on LinkedIn"></a></li>
 	</ul>
@@ -134,7 +134,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key
 #####1:50pm - 2:30 ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_two/tab.pdf" aria-label="PDF Transcript for Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_two/tab.pdf" aria-label="PDF Transcript for Put it on my TAB - Web Accessibility Testing and the Power of the TAB Key">PDF Transcript</a> | <a href="https://bit.ly/put-it-on-my-tab" aria-label="Put it on my TAB Slides">Slides</a>
 	<ul class="social">
 		<li>Glen Walker <a href="https://www.linkedin.com/in/glen-walker/" class="social"><img src="/public/linked-in.svg" alt="Glen Walker on LinkedIn"></a></li>
 	</ul>
@@ -143,7 +143,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Amplifying Your Accessibility With Better Authoring Tools
 #####2:40pm - 3:20pm  ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_two/authoring_tools.pdf" aria-label="PDF Transcript for Amplifying Your Accessibility With Better Authoring Tools">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_two/authoring_tools.pdf" aria-label="PDF Transcript for Amplifying Your Accessibility With Better Authoring Tools">PDF Transcript</a> | <a href="https://talks.hiddedevries.nl/hi8wiJ/amplifying-your-accessibility-with-better-authoring-tools" aria-label="Amplifying Your Accessibility With Better Authoring Tools Slides">Slides</a>
 	<ul class="social">
 		<li>Hidde de Vries <a href="https://twitter.com/hdv" class="social"><img src="/public/twitter.svg" alt="Hidde de Vries on Twitter"></a> <a href="https://www.linkedin.com/in/hiddedevries/" class="social"><img src="/public/linked-in.svg" alt="Hidde de Vries on LinkedIn"></a></li>
 	</ul>
