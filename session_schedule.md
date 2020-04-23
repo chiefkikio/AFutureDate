@@ -188,6 +188,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####No Team? No Problem! Implementing Accessibility with No Dedicated Resources
 #####11:00am - 11:50am ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_three/no_team.pdf" aria-label="PDF transcript for No Team? No Problem! Implementing Accessibility with No Dedicated Resources">PDF Transcript</a>
 	<ul class="social">
 		<li>Lanya Butler <a href="https://twitter.com/chiefkikio" class="social"><img src="/public/twitter.svg" alt="Lanya Butler on Twitter"></a> <a href="https://www.linkedin.com/in/lanya-butler-19b76259/" class="social"><img src="/public/linked-in.svg" alt="Lanya Butler on LinkedIn"></a></li>
 		<li>Lily Bond  <a href="https://twitter.com/lilybbond" class="social"><img src="/public/twitter.svg" alt="Lily Bond on Twitter"></a> <a href="https://www.linkedin.com/in/lilybbond/" class="social"><img src="/public/linked-in.svg" alt="Lily Bond on LinkedIn"></a></li>
@@ -198,6 +199,7 @@ Many of the speakers will be answering questions in the live chat during their s
 ####Why Add People with Disabilities to Your Workforce?
 #####[Keynote] 11:50am - 12:40pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_three/why_add.pdf" aria-label="PDF transcript for Why Add People with Disabilities to Your Workforce?">PDF Transcript</a>
 	<ul class="social">
 		<li>Lucy Greco  <a href="https://twitter.com/accessaces" class="social"><img src="/public/twitter.svg" alt="Lucy Greco on Twitter"></a> <a href="https://www.linkedin.com/in/lucy-greco-968b491/" class="social"><img src="/public/linked-in.svg" alt="Lucy Greco on LinkedIn"></a></li>
 		<li>Lainey Feingold <a href="https://twitter.com/LFLegal" class="social"><img src="/public/twitter.svg" alt="Lainey Feingold on Twitter"></a> <a href="https://www.linkedin.com/in/laineyfeingold/" class="social"><img src="/public/linked-in.svg" alt="Lainey Feingold on LinkedIn"></a></li>
@@ -234,7 +236,8 @@ This <em>live</em> session will be held on a separate <a href="https://youtube.c
 ####Beyond Standards: A Holistic Approach to Accessibility
 #####2:40 PM - 3:20 PM ET
 <div class="session-info">
-	<a href="https://drive.google.com/file/d/1EQvZ_6raPnGeMre7AYl4Df0ZocfomYD_/view?usp=sharing" aria-label="Beyond Standards: A Holistic Approach to Accessibility Slides">Slides</a>
+	<a href="{{ site.baseurl }}transcripts/day_three/holistic.pdf" aria-label="PDF transcript for Beyond Standards: A Holistic Approach to Accessibility">PDF Transcript</a>
+	|	<a href="https://drive.google.com/file/d/1EQvZ_6raPnGeMre7AYl4Df0ZocfomYD_/view?usp=sharing" aria-label="Beyond Standards: A Holistic Approach to Accessibility Slides">Slides</a>
 	<ul class="social">
 	<li>Rachael Bradley Montgomery <a href="https://www.linkedin.com/in/rachael-bradley-montgomery-6847144/" class="social"><img src="/public/linked-in.svg" alt="Rachel Bradley Montgomery on LinkedIn"></a></li>
 	</ul>
@@ -243,7 +246,8 @@ This <em>live</em> session will be held on a separate <a href="https://youtube.c
 ####Building an Accessible Culture in Higher Ed
 #####3:20 PM - 3:50 PM ET
 <div class="session-info">
-	<a href="https://drive.google.com/file/d/1l0G8cqUWZovGmXv-dPZRBVPrAEIpD2qg/view?usp=sharing" aria-label="Building an Accessible Culture in Higher Ed Slides">Slides</a>
+	<a href="{{ site.baseurl }}transcripts/day_three/higher_ed.pdf" aria-label="PDF transcript for Building an Accessible Culture in Higher Ed">PDF Transcript</a>
+	| <a href="https://drive.google.com/file/d/1l0G8cqUWZovGmXv-dPZRBVPrAEIpD2qg/view?usp=sharing" aria-label="Building an Accessible Culture in Higher Ed Slides">Slides</a>
 	<ul class="social">
 		<li>Sarah Ferguson</li>
 		<li>Esther Brandon</li>
@@ -253,6 +257,7 @@ This <em>live</em> session will be held on a separate <a href="https://youtube.c
 ####How to Engage and Employ Users from the Disability Community in Accessibility Testing
 #####4:00pm - 4:45pm ET
 <div class="session-info">
+	<a href="{{ site.baseurl }}transcripts/day_three/engage_testing.pdf" aria-label="PDF transcript for How to Engage and Employ Users from the Disability Community in Accessibility Testing">PDF Transcript</a>
 	<ul class="social">
 		<li>Jason Taylor <a href="https://www.linkedin.com/in/jason-taylor-37279315b/" class="social"><img src="/public/linked-in.svg" alt="Jason Taylor on LinkedIn"></a></li>
 		<li>Joseph DiNero <a href="https://www.linkedin.com/in/joe-dinero-b3a31032/" class="social"><img src="/public/linked-in.svg" alt="Joseph DiNero on LinkedIn"></a></li>
