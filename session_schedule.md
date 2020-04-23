@@ -2,7 +2,7 @@
 layout: page
 title: Session Schedule
 ---
-<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=PHMSJP6WVy0">youtube channel</a> </b><br>
+<b>Tune into the conference from our <a href="https://www.youtube.com/watch?v=qsifjAR2r14">youtube channel</a> </b><br>
 Many of the speakers will be answering questions in the live chat during their sessions.
 
 ## Tuesday 4/21
@@ -217,8 +217,7 @@ Many of the speakers will be answering questions in the live chat during their s
 #####An update on current issues from speakers at the forthcoming Online Summit
 #####1:00pm - 2:30pm ET
 <p>
-This <em>live</em> session will be at another address. Info will be here, and on the
-day 3 stream.
+This <em>live</em> session will be held on a separate <a href="https://youtube.com/c/AFutureDate/live">youtube stream</a>
 </p>
 <div class="session-info">
 	<ul class="social">
