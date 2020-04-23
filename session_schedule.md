@@ -230,6 +230,7 @@ This <em>live</em> session will be held on a separate <a href="https://youtube.c
 		<li>Deepa Goraya <a href="https://www.linkedin.com/in/deepagoraya/" class="social"><img src="/public/linked-in.svg" alt="Deepa Goraya on LinkedIn"></a></li>
 		<li>Marcie Lipsitt</li>
 		<li>Chris Law <a href="https://www.linkedin.com/in/chris-m-law/" class="social"><img src="/public/linked-in.svg" alt="Chris Law on LinkedIn"></a></li>
+		<li>Jennifer Chadwick</li>
 	</ul>
 </div>
 
