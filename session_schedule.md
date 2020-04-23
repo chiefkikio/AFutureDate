@@ -235,6 +235,7 @@ day 3 stream.
 ####Beyond Standards: A Holistic Approach to Accessibility
 #####2:40 PM - 3:20 PM ET
 <div class="session-info">
+	<a href="https://drive.google.com/file/d/1EQvZ_6raPnGeMre7AYl4Df0ZocfomYD_/view?usp=sharing" aria-label="Beyond Standards: A Holistic Approach to Accessibility Slides">Slides</a>
 	<ul class="social">
 	<li>Rachael Bradley Montgomery <a href="https://www.linkedin.com/in/rachael-bradley-montgomery-6847144/" class="social"><img src="/public/linked-in.svg" alt="Rachel Bradley Montgomery on LinkedIn"></a></li>
 	</ul>
@@ -243,6 +244,7 @@ day 3 stream.
 ####Building an Accessible Culture in Higher Ed
 #####3:20 PM - 3:50 PM ET
 <div class="session-info">
+	<a href="https://drive.google.com/file/d/1l0G8cqUWZovGmXv-dPZRBVPrAEIpD2qg/view?usp=sharing" aria-label="Building an Accessible Culture in Higher Ed Slides">Slides</a>
 	<ul class="social">
 		<li>Sarah Ferguson</li>
 		<li>Esther Brandon</li>
