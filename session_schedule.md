@@ -259,7 +259,7 @@ This <em>live</em> session will be held on a separate <a href="https://youtube.c
 ####How to Engage and Employ Users from the Disability Community in Accessibility Testing
 #####4:00pm - 4:45pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_three/engage_testing.pdf" aria-label="PDF transcript for How to Engage and Employ Users from the Disability Community in Accessibility Testing">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_three/engage_testing.pdf" aria-label="PDF transcript for How to Engage and Employ Users from the Disability Community in Accessibility Testing">PDF Transcript</a> | <a href="https://info.usablenet.com/a-future-date-2020" aria-label="How to Engage and Employ Users from the Disability Community in Accessibility Testing Slides">Slides</a>
 	<ul class="social">
 		<li>Jason Taylor <a href="https://www.linkedin.com/in/jason-taylor-37279315b/" class="social"><img src="/public/linked-in.svg" alt="Jason Taylor on LinkedIn"></a></li>
 		<li>Joseph DiNero <a href="https://www.linkedin.com/in/joe-dinero-b3a31032/" class="social"><img src="/public/linked-in.svg" alt="Joseph DiNero on LinkedIn"></a></li>
