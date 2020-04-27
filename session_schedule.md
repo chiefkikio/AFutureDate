@@ -34,7 +34,7 @@ We will be posting links to individual talk on the site soon!
 ####Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality
 #####1:10pm - 1:40pm ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_one/thinking_outside_boxes.pdf"  aria-label="PDF Transcript for Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_one/thinking_outside_boxes.pdf"  aria-label="PDF Transcript for Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality">PDF Transcript</a> | <a href="https://docs.google.com/presentation/d/1FVji5ZDuJhwSDyVFNEFNK2kcX-7358joTjGFPx2eHA8/edit?usp=sharing" aria-label="Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality Slides">Slides</a>
 	<ul class="social">
 		<li>Sara Shahvisi</li>
 		<li>Sable Lomax</li>
