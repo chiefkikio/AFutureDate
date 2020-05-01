@@ -189,7 +189,7 @@ We will be posting links to individual talk on the site soon!
 ####No Team? No Problem! Implementing Accessibility with No Dedicated Resources
 #####11:00am - 11:50am ET
 <div class="session-info">
-	<a href="{{ site.baseurl }}transcripts/day_three/no_team.pdf" aria-label="PDF transcript for No Team? No Problem! Implementing Accessibility with No Dedicated Resources">PDF Transcript</a>
+	<a href="{{ site.baseurl }}transcripts/day_three/no_team.pdf" aria-label="PDF transcript for No Team? No Problem! Implementing Accessibility with No Dedicated Resources">PDF Transcript</a> | <a href="https://bit.ly/2KRjkgY" aria-label="No Team? No Problem! Implementing Accessibility with No Dedicated Resources Slides">Slides</a>
 	<ul class="social">
 		<li>Lanya Butler <a href="https://twitter.com/chiefkikio" class="social"><img src="/public/twitter.svg" alt="Lanya Butler on Twitter"></a> <a href="https://www.linkedin.com/in/lanya-butler-19b76259/" class="social"><img src="/public/linked-in.svg" alt="Lanya Butler on LinkedIn"></a></li>
 		<li>Lily Bond  <a href="https://twitter.com/lilybbond" class="social"><img src="/public/twitter.svg" alt="Lily Bond on Twitter"></a> <a href="https://www.linkedin.com/in/lilybbond/" class="social"><img src="/public/linked-in.svg" alt="Lily Bond on LinkedIn"></a></li>
