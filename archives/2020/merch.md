@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: archive
 title: A Future Date Merchandise
+permalink: /archive/2020/merch.html
 ---
 
 Check out our <a href="https://teespring.com/a-future-date">merchandise site</a>, where you can buy t-shirts and stickers with the A Future Date logo. Proceeds will be donated to a COVID-19/disability related charity. Do you have a suggestion of one? Email us at afuturedate.conference@gmail.com!

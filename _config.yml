@@ -8,9 +8,9 @@ relative_permalinks: false
 
 # Setup
 title:            A Future Date
-tagline:          'A virtual a11y conf April 21-23'
-description:      'A virtual a11y conference April 21-23'
-url:              http://hyde.getpoole.com
+tagline:          'A virtual a11y conf'
+description:      'A virtual a11y conference'
+url:              http://http://afuturedate.com/
 baseurl:          /
 
 author:
