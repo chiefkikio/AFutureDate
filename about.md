@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Future Date is a free, volunteer-led, virtual accessibility and disability conference coming in April 2021. Our goal is to build and bridge the accessibility and disability communities by providing a platform for our audience to learn about the pioneering work and lived experiences of leaders in the accessibility and disability communities.
+Future Date is a free, volunteer-led, virtual accessibility conference coming in April 2021. Our goal is to expose our audience to the pioneering work and lived experiences of disability and accessibility leaders.
 
 ## Volunteers
 * Anna Cook [![Anna Cook on Twitter](/public/twitter.svg)](https://twitter.com/annaecook)
