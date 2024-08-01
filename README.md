@@ -1,3 +1,6 @@
+# About this Project
+This was the website for [A Future Date](https://web.archive.org/web/20200722051402/https://afuturedate.herokuapp.com/), a volunteer-organized virtual accessibility (A11Y) conference that ran April 21-23, 2020 in response to Covid-19
+
 # installation
 You must have ruby version > 2.4
 ```
